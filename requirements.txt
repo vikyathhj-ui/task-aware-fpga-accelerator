@@ -1,0 +1,9 @@
+ultralytics
+sentence-transformers
+transformers
+torch
+torchvision
+opencv-python
+numpy
+pillow
+psutil
